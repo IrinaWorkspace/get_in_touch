@@ -5,10 +5,12 @@
   --font-family-primary: "Roboto", sans-serif;
   --font-family-secondary: "Edwardian Script ITC", cursive;
   --font-size-heading: 2.5rem;
+  --font-size-display: 6rem;
   --font-size-subheading: 1.625rem;
   --margin-top-heading: 15%;
   --margin-top-display: -20px;
   --margin-bottom-paragraph: 20px;
+  --margin-top-subheading: 20px;
   --margin-top-paragraph: 0;
   --image-width: 90%;
   --image-height: auto;

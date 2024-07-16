@@ -18,6 +18,49 @@
   --button-image-width: 40px;
   --button-image-height: auto;
 }
+/* Roboto Black */
+@font-face {
+  font-family: "Roboto";
+  src: url("assets/fonts/Roboto-Black.ttf") format("ttf"),
+    url("assets/fonts/Roboto-BlackItalic.ttf") format("ttf");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Roboto Bold */
+@font-face {
+  font-family: "Roboto";
+  src: url("assets/fonts/Roboto-Bold.ttf") format("ttf"),
+    url("assets/fonts/Roboto-BoldItalic.ttf") format("ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Roboto Light */
+@font-face {
+  font-family: "Roboto";
+  src: url("assets/fonts/Roboto-Light.ttf") format("ttf"),
+    url("assets/fonts/Roboto-LightItalic.ttf") format("ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Roboto Medium */
+@font-face {
+  font-family: "Roboto";
+  src: url("assets/fonts/Roboto-Medium.ttf") format("ttf"),
+    url("assets/fonts/Roboto-MediumItalic.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Edwardian Script ITC Regular */
+@font-face {
+  font-family: "Edwardian Script ITC";
+  src: url("assets/fonts/edwardianscriptitc.ttf") format("ttf");
+  font-weight: 500;
+  font-style: normal;
+}
 
 body,
 html {
